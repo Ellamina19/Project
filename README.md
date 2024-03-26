@@ -26,6 +26,7 @@ The dataset was fetched from kaggle site
 I did some conditional formatting 
 
 ## Findings
-![Data](project-1.jpg)
+![Data](https://github.com/Ellamina19/Project/blob/main/project%201.jpg)
+
 
 
