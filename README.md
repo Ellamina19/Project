@@ -25,8 +25,22 @@ The dataset was fetched from kaggle site
 ## Power Bi query used
 I did some conditional formatting 
 
-## Findings
+## Findings 1
 ![Data](https://github.com/Ellamina19/Project/blob/main/project%201.jpg)
+
+From the above analysis, we derived the the following insight:
+- The company meant with their commodity price target which is 30million, and even crossed their target
+- At 1301721176, Maiduguri had the highest sum of price and was 72.44% higher than Potiskum, which had the lowest Sum of price at 754901160
+- Maiduguri accounted for 9.14% of Sum of price
+- Across all 15 LGA , Sum of price ranged from 754901160 to 1301721176
+- At 15408598515, Sum of price has exceeded the target goal of 30 million
+- Sum of price trended up, resulting in a 26,115.53% increase between 2002 and 2023
+- Sum of price started trending up on 2017, rising by 27.43% (125186206) in 6 years
+- Sum of price jumped from 456444912 to 58163118 during its steepest incline between 2017 and 2023
+
+  
+## Findings 2
+![Data]()
 
 
 
