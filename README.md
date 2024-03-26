@@ -1,6 +1,22 @@
 ## Documentation  Outline
 -[Project Overview](#project-overview)
+
 -[Data Source](#data-source)
+
+-[Tools Used](#tools-used)
+
+-[Exploratory Data Analysis](#Exploratory-data-analysis)
+
+-[Data Cleaning](#data-cleaning)
+
+-[Power Bi query used](#power-bi-query-used)
+
+-[Findings 1](#findings-1)
+
+-[Findings 2](#findings-2)
+
+-[Recommendations](#recommendations)
+
 
 ## Project Overview
 This analysis is an insight for agriculture, which emphasize deriving meaningful trends by carefully analyzing different parameters inorder to get a satisfiable insight that compel us in making a meaningul decision
