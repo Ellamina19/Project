@@ -26,4 +26,6 @@ The dataset was fetched from kaggle site
 I did some conditional formatting 
 
 ## Findings
-![Data]()
+![Data](project-1.jpg)
+
+
