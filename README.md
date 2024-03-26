@@ -37,10 +37,16 @@ From the above analysis, we derived the the following insight:
 - Sum of price trended up, resulting in a 26,115.53% increase between 2002 and 2023
 - Sum of price started trending up on 2017, rising by 27.43% (125186206) in 6 years
 - Sum of price jumped from 456444912 to 58163118 during its steepest incline between 2017 and 2023
-
+- Borno had the lowest sum of price by year whereas Abia had the highest sum of price by year 2022
+- Maiduguri had the highest commodity sale 
   
 ## Findings 2
-![Data]()
+![Data](https://github.com/Ellamina19/Project/blob/main/project%202.jpg)
+
+From the above analysis, we derived the following insight:
+ 
+_ 
+
 
 
 
