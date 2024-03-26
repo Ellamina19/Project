@@ -45,7 +45,15 @@ From the above analysis, we derived the the following insight:
 
 From the above analysis, we derived the following insight:
  
-_ 
+- Millet is the highest commodity sold with the count of 4502 and the least is beans(niebe) with the count of 24
+- Beans (niebe), wheat, Rice (milled, local), maize sold wholesale and that's why they had the lowest sum of commodity sold.
+
+ ## Recommendations
+
+- I suggest that beans(niebe) ,wheat, Rice (milled, local), maize should not be sold wholesale but retail price inorder for their sum of price to appreciate
+- Borno had the worst sum of price, is it because of the bandits harrassment?, I suggest we reduced the amount of commodity that is been shipped in borno for now.
+
+ 
 
 
 
